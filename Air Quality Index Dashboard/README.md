@@ -16,7 +16,7 @@ The dataset was taken from Kaggle. It is publicly available by the Central Pollu
 
 ### Data Description
 
-The dataset consists of approximately 30,000 rows with data for 26 cities and 12 different pollutants contributing to the air quality Index (AQI) over a time span of 5 years i.e;2015-2020.
+The dataset consists of approximately 30,000 rows with data for 26 cities and 12 different pollutants contributing to the air quality Index (AQI) over a time span of 5 years ie.. 2015-2020.
 
 ### Screenshot
 
