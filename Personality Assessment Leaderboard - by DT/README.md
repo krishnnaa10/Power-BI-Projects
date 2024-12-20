@@ -1,29 +1,10 @@
-# Patient Wait List Dashboard
+### Dashboard - Personality Assessment Leaderboard (Technical Assessment by DT)
 
-### Problem Statement
-
-The hospital management needs a detailed look at the patient wait list to better use their resources, find areas that need improvement, and make sure patients are taken care of quickly. They want to understand the types of cases, the ages of patients, and the wait times for different specialties to help them make smart decisions.
-
-### PROJECT GOALS
-
-+ Track current status of patients waitlist.
-+ Analyze historical monthly trends of Impatient and outpatient categories.
-+ Detailed specialty level and age profile analysis.
-
-**Data Used - Patient Wait List:**
-
-https://www.pivotalstats.com/resources
-
-### VIEWS 
-
-+ SUMMARY PAGE 
-+ DETAILS PAGE OF GRANULAR ANALYSIS
+**Dashboard**
 
 
-### Page 1 (Summary)
+![Screenshot 2024-12-20 125153](https://github.com/user-attachments/assets/a0b86cc0-f68a-4b03-848f-654df2b45814)
 
-![Screenshot 2024-10-21 102752](https://github.com/user-attachments/assets/46bc67c1-6573-4e13-b2ed-0fb10bb04b59)
+![Screenshot 2024-12-20 125136](https://github.com/user-attachments/assets/35269566-0d10-4009-a885-358d5fa0f115)
 
-### Page 2 (Detailed View)
-
-![Screenshot 2024-10-21 102811](https://github.com/user-attachments/assets/d5845735-6427-4442-8ae8-516ff6c38c28)
+![Screenshot 2024-12-20 124903](https://github.com/user-attachments/assets/f87bbaf5-a345-463e-a477-7150ace7a849)
